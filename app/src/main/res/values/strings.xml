@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">Graphics</string>
-    <string name="open_circle_activity">画圆</string>
+    <string name="open_practice_activity">Open Practice Activity</string>
+    <string name="title_draw_color">上色</string>
+    <string name="title_draw_circle">画圆</string>
+    <string name="title_draw_rect">画方</string>
+    <string name="title_draw_point">画点</string>
+    <string name="title_draw_oval">画椭圆</string>
+    <string name="title_draw_line">画线</string>
+    <string name="title_draw_rect_round">画圆角矩形</string>
+    <string name="title_draw_arc">画弧</string>
+    <string name="title_draw_path">画路径</string>
+    <string name="title_draw_histogram">画直方图</string>
+    <string name="title_draw_chart_pie">画饼图</string>
 </resources>

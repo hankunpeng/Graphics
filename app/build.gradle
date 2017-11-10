@@ -24,7 +24,7 @@ dependencies {
     implementation 'com.android.support.constraint:constraint-layout:1.0.2'
 //    compile 'com.google.dagger:dagger:2.x'
 //    annotationProcessor 'com.google.dagger:dagger-compiler:2.x'
-
+    compile 'com.android.support:design:26.1.0'
     compile 'com.jakewharton:butterknife:8.8.1'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
     compile 'com.jakewharton.timber:timber:4.6.0'

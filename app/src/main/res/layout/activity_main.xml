@@ -7,10 +7,10 @@
     tools:context="han.kunpeng.graphics.MainActivity">
 
     <Button
-        android:id="@+id/button_open_circle_activity"
+        android:id="@+id/button_open_practice_activity"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/open_circle_activity"
+        android:text="@string/open_practice_activity"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
